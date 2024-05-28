@@ -1,6 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Catppuccin",
+  "cssTheme": "Things",
   "showViewHeader": true,
-  "textFontFamily": "DejaVu Sans"
+  "textFontFamily": "DejaVu Sans",
+  "theme": "system"
 }
